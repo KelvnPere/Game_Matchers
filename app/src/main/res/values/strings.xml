@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Game Matchers</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_place_matcher">PlaceMatcherActivity</string>
+    <string name="title_activity_food_matcher">FoodMatcherActivity</string>
+    <string name="title_activity_shoe_matcher">ShoeMatcherActivity</string>
 </resources>
