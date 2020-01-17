@@ -4,4 +4,14 @@
     <string name="title_activity_place_matcher">PlaceMatcherActivity</string>
     <string name="title_activity_food_matcher">FoodMatcherActivity</string>
     <string name="title_activity_shoe_matcher">ShoeMatcherActivity</string>
+    <string name="gameTitle">Memory Match</string>
+    <string name="foodMatcherBtnText">Food</string>
+    <string name="placeMatcherBtnText">Places</string>
+    <string name="shoeMatcherBtnText">Shoes</string>
+
+    <string name="foodMatch">Food Matcher</string>
+    <string name="shoeMatch">Shoe Matcher</string>
+    <string name="placeMatch">Place Matcher</string>
+
+
 </resources>
